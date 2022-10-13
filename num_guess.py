@@ -1,3 +1,8 @@
+#Amiin Samatar
+#niima23
+#10/11/22
+#Entering my guesses to see if it is too low or too high
+
 var = int(input("Enter the integer for the player to guess.\n"))
 
 count = 4
